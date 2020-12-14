@@ -1,4 +1,4 @@
-# Analysis on U.S. Patents and Patent Applications
+# Analysis on U.S. Patents and Pending Patent Applications
 
 This analysis explored the Patent Examination Research Dataset (Public PAIR) and Assignment Dataset provided by the United States Patent and Trademark Office (USPTO). I primarily focused on the time period 2000-2019 and explored the following:
 
