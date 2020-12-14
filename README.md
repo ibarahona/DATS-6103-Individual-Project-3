@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ibarahona/DATS-6103-Individual-Project-3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Analysis on U.S. Patents and Patent Applications
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This analysis explored the Patent Examination Research Dataset (Public PAIR) and Assignment Dataset provided by the United States Patent and Trademark Office (USPTO). I primarily focused on the time period 2000-2019 and explored the following:
+
+1. Technology centers - examination groups applications are assigned to based on technology of invention
+2. United States Patent Classification (USPC) class numbers - applications are assigned a USPC class number based on the type of invention
+3. Inventors - where are the inventors from?
+4. Entity status - undiscounted, small, or micro
+5. Assignee - entity that has property right to the patent
+
+This analysis provides an overview of the types of inventions that have been patented and the owners of these patents. Additionally, analysis of the pending applications provided insight into the patents that are coming down the pipeline. The assignment dataset also provides a general idea of which countries and companies have strong U.S. patent portfolios.
 
 ```markdown
 Syntax highlighted code block
@@ -27,11 +31,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ibarahona/DATS-6103-Individual-Project-3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
