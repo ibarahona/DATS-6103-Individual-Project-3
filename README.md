@@ -10,3 +10,6 @@ This analysis explored the Patent Examination Research Dataset (Public PAIR) and
 
 This analysis provides an overview of the types of inventions that have been patented and the owners of these patents. Additionally, analysis of the pending applications provided insight into the patents that are coming down the pipeline. The assignment dataset also provides a general idea of which countries and companies have strong U.S. patent portfolios.
 
+[Link to datasets] (https://www.uspto.gov/ip-policy/economic-research/research-datasets)
+
+[Link to notebook and plots] (https://ibarahona.github.io/U.S.-Patent-Analysis/DATS-6103-Individual-Project-3.html)
