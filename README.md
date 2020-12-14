@@ -12,4 +12,4 @@ This analysis provides an overview of the types of inventions that have been pat
 
 [Link to datasets] (https://www.uspto.gov/ip-policy/economic-research/research-datasets)
 
-[Link to notebook and plots] (https://ibarahona.github.io/U.S.-Patent-Analysis/DATS-6103-Individual-Project-3.html)
+[Link to notebook and plots] (https://ibarahona.github.io/U.S.-Patent-Analysis/DATS 6103 - Individual Project 3 - Inday Barahona.html)
